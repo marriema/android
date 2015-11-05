@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/xueba"
+    android:columnCount="1"
+    tools:ignore="NewApi" >
+
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="192dp"
+        android:layout_height="83dp"
+        android:ems="10"
+        android:gravity="center"
+        android:height="83dp"
+        android:hint="@string/type_what_you_want" />
+   
+</LinearLayout>
